@@ -1,0 +1,3 @@
+[submodule "auth-service-api"]
+	path = auth-service-api
+	url = https://github.com/cpd-hotel-management-system/auth-service-api.git
