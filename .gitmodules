@@ -4,3 +4,9 @@
 [submodule "hotel-management-service-api"]
 	path = hotel-management-service-api
 	url = https://github.com/cpd-hotel-management-system/hotel-management-service-api.git
+[submodule "eureka-server"]
+	path = eureka-server
+	url = https://github.com/cpd-hotel-management-system/eureka-server.git
+[submodule "gateway-service-api"]
+	path = gateway-service-api
+	url = https://github.com/cpd-hotel-management-system/gateway-service-api.git
